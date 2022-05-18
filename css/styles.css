@@ -1,0 +1,36 @@
+.body {
+    background-color: #FFFFFF;
+    color: #212121;
+    font-family: "Roboto", sans-serif;
+}
+
+* {
+    color: #212121;
+}
+
+/* Logo */
+.logo {
+    color: #212121;
+    font-family: "Raleway", sans-serif;
+}
+
+.logo-style {
+    color: #2196F3;
+}
+
+/* nav */
+.list {
+    list-style: none;
+}
+.nav {
+    color: #212121;
+}
+
+
+/*  цвет основного текста #212121 */
+
+/* вторичній цвет #757575 */
+
+/* белый #FFFFFF */
+
+/* акцент #2196F3 */
