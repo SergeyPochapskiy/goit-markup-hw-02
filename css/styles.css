@@ -49,9 +49,8 @@ body {
 }
 
 
-
 /*------------------ Hero-------------- */
-.hero-text {
+.hero-title {
     font-weight: 900;
     font-size: 44px;
     line-height: 1.36;
@@ -177,7 +176,40 @@ body {
 .footer-item {
     color: rgba(255, 255, 255, 0.6);
 }
+/* ------------------Portfolio---------------------- */
 
+.portfolio {
+    background: #E5E5E5;
+}
+
+.portfolio-btn {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.89;
+    text-align: center;
+    letter-spacing: 0.03em;
+    background: #F5F4FA;
+    border-radius: 4px;
+}
+
+.portfolio-btn:hover,
+.portfolio-btn:focus {
+    background-color:  #2196F3;
+    color: #FFFFFF;
+}
+
+.card-title {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+}
+.card-text {
+    font-size: 16px;
+    line-height: 1.89;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
 
 
 /*  цвет основного текста #212121 */
